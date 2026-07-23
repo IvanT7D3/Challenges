@@ -1,2 +1,2 @@
 # Challenges
-Still to do.
+Various exercises related to offensive programming.
